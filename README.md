@@ -6,7 +6,7 @@ Tools:
   - Keras
   - Numpy
   - Scikit-learn
-  - Pandass
+  - Pandas
   - Tensorflow
 
 Accuracy 97%
